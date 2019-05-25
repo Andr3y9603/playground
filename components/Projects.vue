@@ -17,7 +17,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/seaside.png" />
+                        <img src="images/seaside.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">Seasidedistrict.ro</h3>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/alezzi.png" />
+                        <img src="images/alezzi.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">Alezzi.ro</h3>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/navnemerket.png" />
+                        <img src="images/navnemerket.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">Navnemerket.No</h3>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/bluum.png" />
+                        <img src="images/bluum.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">Bluum.no</h3>
@@ -97,7 +97,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/lazy-load.png" />
+                        <img src="images/lazy-load.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">
@@ -119,7 +119,7 @@
                 </div>
                 <div class="feature-extended">
                     <div class="feature-extended-image is-revealing">
-                        <img src="/images/bookmark-manager.png" />
+                        <img src="images/bookmark-manager.png" />
                     </div>
                     <div class="feature-extended-body">
                         <h3 class="mt-0">

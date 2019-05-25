@@ -75,7 +75,7 @@
                     >
                         <img
                             class="perspective-image"
-                            src="/images/banner.jpg"
+                            src="images/banner.jpg"
                         />
                     </div>
                 </div>

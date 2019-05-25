@@ -1,17 +1,17 @@
 <template>
   <div>
-    <script type="text/javascript" src="/js/scrollreveal.min.js"></script>
+    <script type="text/javascript" src="js/scrollreveal.min.js"></script>
     <link
       href="https://fonts.googleapis.com/css?family=Hind+Vadodara:400,600,700|Frank+Ruhl+Libre:700"
       rel="stylesheet"
     />
     <nuxt />
-    <script type="text/javascript" src="/js/main.min.js"></script>
+    <script type="text/javascript" src="js/main.min.js"></script>
   </div>
 </template>
 <script>
 // import "";
-// import "~/assets/js/main.min.js";
+// import "~/assetsjs/main.min.js";
 </script>
 <style>
 html {
